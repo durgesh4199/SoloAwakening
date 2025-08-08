@@ -1,0 +1,8 @@
+{
+  "name": "solo-awakening",
+  "version": "1.0.0",
+  "description": "Interactive LLM learning mini-games",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  }
+}
